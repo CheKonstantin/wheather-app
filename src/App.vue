@@ -137,6 +137,7 @@ h2 {
 
   .inputs {
     display: flex;
+    flex-direction: column;
     gap: 20px;
   }
 
